@@ -1,0 +1,11 @@
+"Name" "Height" "Weight" "BMI" "above22.5"
+"1" "Can" 1.7 65 22.49 FALSE
+"2" "Cem" 1.75 66 21.55 FALSE
+"3" "Hande" 1.62 61 23.24 TRUE
+"4" "Lale" 1.76 64 20.66 FALSE
+"5" "Arda" 1.78 63 19.88 FALSE
+"6" "Bilgin" 1.77 84 26.81 TRUE
+"7" "Ceo" 1.69 75 26.26 TRUE
+"8" "Ozlem" 1.75 65 21.22 FALSE
+"9" "Ali" 1.73 75 25.06 TRUE
+"10" "Haluk" 1.71 81 27.7 TRUE
